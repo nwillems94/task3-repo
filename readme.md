@@ -1,5 +1,9 @@
-This is the first edition of the readme
+This is the second edition of the readme
 
-here is some random text
+here is some random text that Kyle added on to
 
-this line can be deleted
+
+
+^^ I deleted a line that was right there
+
+Hey Martin, delete this line please
