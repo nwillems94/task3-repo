@@ -1,4 +1,4 @@
-# This is the fourth edition of the readme
+# This is the fifth edition of the readme
 
 here is some random text that Kyle added on to
 
@@ -8,6 +8,8 @@ they do! :ghost:
 :candy:
 :chocolate_bar:
 
-^^ I deleted a line that was right there
+Well I don't see any emojis, I feel let out
+:Sad_face:
+
 
 I deleted this line 
